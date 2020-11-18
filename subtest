@@ -1,1 +1,2 @@
 print（'hello,world!')
+input('pls input enter to quit')
