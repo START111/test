@@ -2,3 +2,4 @@ this is a file
 add another line
 add third line
 haha
+remote together
